@@ -1,0 +1,50 @@
+{
+  "cold_sweat:filled_waterskin": [
+    {
+      "hide_if_unmet": true,
+      "temperature": 0.025,
+      "trait": "core",
+      "max_effect": 999.0,
+      "item": {
+        "nbt": {
+          "Temperature": "0.1:"
+        },
+        "items": {
+          "require": [
+            "cold_sweat:filled_waterskin"
+          ]
+        }
+      },
+      "slots": [
+        "hand",
+        "hotbar"
+      ],
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "7de25777-60aa-495c-8cf7-b9b41da04401"
+    },
+    {
+      "hide_if_unmet": true,
+      "temperature": -0.025,
+      "trait": "core",
+      "max_effect": 999.0,
+      "item": {
+        "nbt": {
+          "Temperature": ":-0.1"
+        },
+        "items": {
+          "require": [
+            "cold_sweat:filled_waterskin"
+          ]
+        }
+      },
+      "slots": [
+        "hand",
+        "hotbar"
+      ],
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "04a53a37-95f6-4352-95e2-6c898989c293"
+    }
+  ]
+}

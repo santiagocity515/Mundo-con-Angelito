@@ -1,0 +1,33 @@
+{
+  "cold_sweat:soul_sprout": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:soul_sprout"
+          ]
+        }
+      },
+      "temperature": -20.0,
+      "duration": 1200,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "9c017673-d837-4f4d-962e-9196432653e4"
+    }
+  ],
+  "cold_sweat:filled_waterskin": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:filled_waterskin"
+          ]
+        }
+      },
+      "temperature": "{item:Temperature}",
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "420ccb2c-62d6-436c-9013-4a5b842f2f90"
+    }
+  ]
+}

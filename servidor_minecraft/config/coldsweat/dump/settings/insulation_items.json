@@ -1,0 +1,401 @@
+{
+  "minecraft:cyan_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:yellow_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "cold_sweat:hoglin_hide": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:hoglin_hide"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 2.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "86053916-9e51-4816-9f0e-c1efd2c8c12f"
+    }
+  ],
+  "cold_sweat:chameleon_molt": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:chameleon_molt"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "value": 2.0,
+        "adapt_speed": 0.0085
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "d2f660c2-9890-4fa5-9f87-e9c699a505ef"
+    }
+  ],
+  "minecraft:light_gray_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:brown_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "cold_sweat:goat_fur": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:goat_fur"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 2.0,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "61b820f0-4aa3-438f-b34a-6760085cb812"
+    }
+  ],
+  "minecraft:black_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:pink_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:white_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:rabbit_hide": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:rabbit_hide"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 1.5
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "7d492ecc-1dc3-4ca2-81b3-2eeb0761afdd"
+    }
+  ],
+  "minecraft:leather": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:leather"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.0,
+        "heat": 1.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "28bbbd4a-7719-43dd-adb5-98daa38e4e42"
+    }
+  ],
+  "minecraft:light_blue_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:gray_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:lime_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:magenta_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:blue_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:green_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:purple_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:red_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ],
+  "minecraft:orange_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "24b9038a-aa61-4f33-b20b-e076b0052b2d"
+    }
+  ]
+}
